@@ -2,14 +2,32 @@
     font-family: Helvetica;
     font-weight: bold;
     color: blue;
-}
+    }
+    
 h1{
+    text-align: center;
+    background: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg");
     font-family: Helvetica;
-font-size: 100px; font-weight: bold;
-color: khaki;
-}
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    }
+    
 h2{
     font-family: Helvetica;
-font-size: 32px; font-weight: bold;
-color: white;
-}
+    font-size: 32px; 
+    font-weight: bold;
+    color: white;
+    }
+    
+#br{
+    background-color: mediumspringgreen;
+    }
+    
+#fr{
+    background-color: lightcoral;
+    }
+    
+#pa{
+    background-color: skyblue;
+    }
